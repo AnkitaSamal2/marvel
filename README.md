@@ -1,4 +1,4 @@
-# Marvel - Face Recognition With Android & OpenCV
+# Marvel - Face Recognition With Android 
 Marvel is an open source android application that does face recognition using OpenCV. Originally made for attendence marking in college, Marvel can be used for any generic use case of face recognition.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
